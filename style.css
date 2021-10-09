@@ -344,11 +344,11 @@ p{
      }
  }
  
- .skills-container li.express::after{
-    animation-name: express;
+ .skills-container li.python::after{
+    animation-name: python;
  }
  
- @keyframes express{
+ @keyframes python{
      to{
          width: 75%;
      }
@@ -365,11 +365,11 @@ p{
  }
  
   
- .skills-container li.react::after{
-    animation-name: react;
+ .skills-container li.videoediting::after{
+    animation-name: videoediting;
  }
  
- @keyframes react{
+ @keyframes videoediting{
      to{
          width: 65%;
      }
